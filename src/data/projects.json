@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Robotics Halloween Competition",
+      "imageSrc": "projects/project.png",
+      "description": "Programmed a robot to autonomously follow a blue line using multiple sensors and IQ Code, integrating real-time adjustments for precise navigation.",
+      "skills": ["Arduino", "C++", "Robot Engineering"],
+      "source": "https://github.com/marchmich/Robotics-Halloween-2024"
+    },
+    {
+      "title": "Digital Museum",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to highlight the contribution of Black historical figures of Richmond, IN. Made in collaboration between the Black Legacy Project of Wayne County and Earlham College CS4SocialGood.",
+      "skills": ["SQL", "Wordpress", "CSS"],
+      "source": "https://www.figma.com/design/7BkZPizRRYQUxlklC5VcPZ/Black-Legacy-Project?node-id=1669-162202&t=67wRICYparoHMSOc-1"
+    },
+
+    {
+      "title": "Computing Skills Foundations",
+      "imageSrc": "projects/project.png",
+      "description": "A collection of projects from my Computing Skills course, showcasing foundational technical skills and applied problem-solving across modules in computer science and data science.",
+      "skills": ["Java", "C", "R","Others"],
+      "source": "https://github.com/marchmich/CS-Foundation-Skills"
+    }
+  ]

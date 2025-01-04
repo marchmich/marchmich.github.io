@@ -1,4 +1,4 @@
 # My portafolio
 
--Please use this link: https://marchmich.github.io
--In case the link is not working, please use this one: https://michellemarch.netlify.app
+- Please check my portfolio using this link: https://marchmich.github.io
+- In case the website is under mantainence, please use this one: https://michellemarch.netlify.app :-) Thanks for your understanding!
